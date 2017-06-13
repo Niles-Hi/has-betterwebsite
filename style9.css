@@ -1,0 +1,125 @@
+#bod {
+	background: url("http://www.s4wallpaper.com/wp-content/uploads/Simple/Simple%20Background%20S4%20wallpaper%2099.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	font-family: Helvetica, Sans-Seriff;
+	color: white;
+	text-align: center;
+}
+#head {
+	border-bottom: 1px solid white;
+}
+#headu {
+	margin-right: 5%;
+}
+.navdrop {
+	width: 9%;
+	border: 1px solid white;
+	text-align: center;
+	padding: 10px;
+	position: absolute;
+	display: none;
+}
+#n1 {
+	left: 24.4%;
+	top: 10.2%;
+}
+#nd1a {
+	border-bottom: 1px solid white;
+}
+#n2 {
+	left: 36.4%;
+	top: 10.2%;
+}
+#nd2a {
+	border-bottom: 1px solid white;
+}
+#n3 {
+	right: 31.4%;
+	top: 10.2%;
+}
+#nd3a {
+	border-bottom: 1px solid white;
+}
+#n4 {
+	right: 22.1%;
+	top: 10.2%;
+}
+#nd4a {
+	border-bottom: 1px solid white;
+}
+#nd4b {
+	border-bottom: 1px solid white;
+}
+#nd4c {
+	border-bottom: 1px solid white;
+}
+#nd4d {
+	border-bottom: 1px solid white;
+}
+ul {
+	text-align: center;
+}
+ul li {
+	display: inline-block;
+	text-align: center;
+	padding: 10px;
+}
+#topm {
+	font-size: 25px;
+}
+.topr {
+	border: 1px solid white;
+	margin-left: 5%;
+}
+.topl {
+	border: 1px solid white;
+	margin-right: 5%;
+}
+a:link {
+	text-decoration: none;
+	color: white;
+}
+a:visited {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	text-decoration: none;
+	color: white;
+}
+a:active {
+	text-decoration: none;
+	color: white;
+}
+#arlef {
+	display: block;
+	position: absolute;
+	width: 4%;
+	margin-left: 1%;
+	margin-top: 1.5%;
+	left: 0;
+}
+#arri{
+	display: block;
+	position: absolute;
+	width: 4%;
+	top: 50%;
+	right: 1%;
+}
+#aphead {
+	text-align: left;
+	padding: 2%;
+	padding-left: 3%;
+}
+#aptext {
+	text-align: left;
+	padding-left: 5%;
+	padding-right: 2%;
+}
+#foot {
+	border-top: 1px solid white;
+	position: absolute;
+	bottom: -10%;
+	width: 97%;
+}
